@@ -2,7 +2,7 @@
 
 [![Growing-yan](https://img.shields.io/badge/Growing-yan-github-blue?logo=github)](https://github.com/Growing-yan)
 
-He is currently a novice who is catching up with the trend of the ai era.
+He will pursue a master's degree in artificial intelligence at the School of Computer Science and Engineering of Changchun University of Technology ,a novice who is catching up with the trend of the ai era.
 
 #### Contact
 
